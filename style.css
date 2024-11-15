@@ -16,20 +16,20 @@
 }
 
 video {
-    margin: 20px;
-    margin-right: 80px;
+    margin: 60px;
 }
 
 p {
-    font-size: 28px;
-    width: 1100px;
-    margin-left: 90px;
+    font-size: 32px;
+    width: 1200px;
+    margin-left: 60px;
+    margin-top: 10px;
 }
 h2 {
-    margin-top: 20px;
+    margin-top: 60px;
     font-size: 48px;
-    width: 1100px;
-    margin-left: 90px;
+    width: 1200px;
+    margin-left: 60px;
 }
 #cute {
     width:350px;
@@ -43,15 +43,24 @@ h2 {
     background-color: rgb(250, 218, 222);
 }
 .prebox {
-    background-color: rgb(255, 205, 247);
+    background-color: rgb(3, 65, 30);
+    padding: 20px;
 }
 h1 {
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
-    margin-left: 90px;
+    margin-left: 60px;
+    color: bisque ;
 }
 h3 {
     font-size: 78px;
     text-align: center;
     background-color:  rgb(250, 218, 222) ;
+}
+.sub {
+    font-style: italic;
+    display: flex;
+    margin-left: 160px;
+    background-color: rgb(250, 218, 222);
+    padding-top: 60px rgb(250, 218, 222); 
 }
