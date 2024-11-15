@@ -1,4 +1,23 @@
 .box {
-    display: block;
+    display: flex;
+    justify-content: space-evenly;
     background-color: rgb(238, 187, 195);
+}
+.boxy {
+    display: block;
+}
+
+
+
+video {
+    margin: 20px;
+}
+
+p {
+    font-size: 28px;
+    width: 800px;
+}
+h1 {
+    font-size: 36px;
+    width: 800px;
 }
