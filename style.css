@@ -14,10 +14,27 @@ video {
 }
 
 p {
-    font-size: 28px;
+    font-size: 24px;
     width: 800px;
 }
-h1 {
-    font-size: 36px;
+h2 {
+    font-size: 48px;
     width: 800px;
+}
+#cute {
+    width:350px;
+    height:350px;
+}
+.images {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(250, 218, 222);
+}
+.prebox {
+    background-color: blanchedalmond;
+    
+}
+h1 {
+    font-size: 24;
+    font-family: 'Times New Roman', Times, serif;
 }
