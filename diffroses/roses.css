@@ -3,3 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+.header {
+    background-color: #1f2937;
+    width: 100%;
+}
