@@ -32,7 +32,12 @@ h1 {
 .hero {
     background-color: #1f2937;
     width: 100%;
-    padding: 160px;
+    padding: 160px; 
+}
+.placeholder {
+    display: flex;
+    justify-content: flex-end;
+    width: 40%;
 }
 h2 {
     color: #F9FAF8;
@@ -40,12 +45,13 @@ h2 {
     font-weight: 900;
     width: 500px;
 }
-.hero p {
+.heya p {
     font-size: 18px;
     color: #E5E7eb;
     width: 500px;
+
 }
-.hero button {
+.heya button {
     background-color: #3882F6;
     color: #F9FAF8;
     font-size: 18px;
@@ -55,3 +61,4 @@ h2 {
     width: 100px;
     margin-top: 5px;
 }
+
