@@ -10,9 +10,22 @@
     background-color: #1f2937;
     width: 100%;
     padding: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 h1 {
     font-size: 24px;
     color: #F9FAF8;
     margin-left: 160px;
+}
+.header-links {
+    display: flex;
+    justify-content: space-evenly;
+    width: 30%;
+}
+p {
+    font-size: 18px;
+    color: #F9FAF8;
+    margin-right: 40px;
 }
