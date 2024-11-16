@@ -19,13 +19,39 @@ h1 {
     color: #F9FAF8;
     margin-left: 160px;
 }
-.header-links {
+.header-links  {
     display: flex;
     justify-content: space-evenly;
-    width: 30%;
+    width: 35%;
 }
-p {
+.header-links p {
     font-size: 18px;
     color: #F9FAF8;
-    margin-right: 40px;
+    margin-right: 60px;
+}
+.hero {
+    background-color: #1f2937;
+    width: 100%;
+    padding: 160px;
+}
+h2 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+    width: 500px;
+}
+.hero p {
+    font-size: 18px;
+    color: #E5E7eb;
+    width: 500px;
+}
+.hero button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding: 6px;
+    border: 1px #3882F6;
+    border-radius: 10%;
+    width: 100px;
+    margin-top: 5px;
 }
